@@ -6,5 +6,4 @@ Lending Club is a pioneer in the P2P industry. Since 2007, it has over 26 billio
 
 Our objective, therefore, in this project, is to build a classification model that will predict whether a borrower will default or not. We have used Lending Club’s loan data from 2007-2015, which includes pertinent payment and borrower’s information. The original dataset lending club is a matrix of 2260668 observations and 145 features. We build an ensemble of classifiers - Random Forest, Logistic Regression, and Linear Discriminant Analysis (LDA) - and our model outperformed the baseline model by 40%. Finally, we catered the decision boundary in our model based on an investor’s risk appetite.
 
-Project Date: Spring 2020
-Project Collaborators: Varsha Jain, Radhika Khandelwal, Akshay Tatyarao Munde, and Prasun Shrestha
+Date: Spring 2020 | Collaborators: Varsha Jain, Radhika Khandelwal, Akshay Tatyarao Munde, and Prasun Shrestha
